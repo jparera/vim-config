@@ -7,7 +7,7 @@ let mapleader=","
 set timeout
 set timeoutlen=3000
 
-let g:airline_powerline_fonts=1
+let g:airline_powerline_fonts=0
 let g:airline#extensions#whitespace#checks=['trailing']
 let g:tern_show_argument_hints='on_move'
 let g:syntastic_javascript_checkers=['jshint']
